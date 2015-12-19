@@ -1,0 +1,11 @@
+<?php if($module=='awraf'):?>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>SOME TITLE</title>
+
+
+<meta property="og:title" content="Satvacart Referal" />
+ <meta property="og:type" content="website" />
+ <meta property="og:image" content="https://www.satvacart.com/media/wysiwyg/magenthemes/mtcolias/logo/Satva_Cart_Final_Logo_02_10_2014_shrunk2_4.png"; />
+ <meta property="og:description" content="Satvacart Referal Program lunch as soon for Gurgaon" />
+
+<?php else:?>
